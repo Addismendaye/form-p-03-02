@@ -1,11 +1,1 @@
-# Form02
-# Form02
-# form02-03
-# Form02
-# Form02
-# Form02
-# Form02
-# form02-03
-# Form02
-# form02-03
-# form-project-0203
+Contact forms are a common interaction pattern and a great way to practice form creation skills because they typically include a variety of input fields, some of which are required for submission and some of which are optional. 
